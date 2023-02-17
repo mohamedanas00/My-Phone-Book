@@ -1,0 +1,3 @@
+D:/All_VIP_Projects/MyPhoneBook/cmake-build-debug/CMakeFiles/MyPhoneBook.dir
+D:/All_VIP_Projects/MyPhoneBook/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/All_VIP_Projects/MyPhoneBook/cmake-build-debug/CMakeFiles/rebuild_cache.dir
